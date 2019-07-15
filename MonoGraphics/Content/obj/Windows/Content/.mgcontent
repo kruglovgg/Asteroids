@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_big_1.png</File>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_big_2.png</File>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_big_3.png</File>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_medium_1.png</File>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_medium_2.png</File>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_medium_3.png</File>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_small_1.png</File>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_small_2.png</File>
+    <File>C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_small_3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>aster_big_1.png</File>
+    <File>aster_big_2.png</File>
+    <File>aster_big_3.png</File>
+    <File>aster_medium_1.png</File>
+    <File>aster_medium_2.png</File>
+    <File>aster_medium_3.png</File>
+    <File>aster_small_1.png</File>
+    <File>aster_small_2.png</File>
+    <File>aster_small_3.png</File>
+  </DestFiles>
+</SourceFileCollection>
