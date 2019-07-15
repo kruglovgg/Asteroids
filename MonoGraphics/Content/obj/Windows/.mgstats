@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_big_1.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_big_1.xnb","TextureProcessor","Texture2DContent",1026,40085,0,2101531
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_big_2.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_big_2.xnb","TextureProcessor","Texture2DContent",969,40085,0,0200148
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_big_3.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_big_3.xnb","TextureProcessor","Texture2DContent",1021,40085,0,0220168
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_medium_1.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_medium_1.xnb","TextureProcessor","Texture2DContent",668,19685,0,0220172
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_medium_2.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_medium_2.xnb","TextureProcessor","Texture2DContent",794,19685,0,0170131
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_medium_3.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_medium_3.xnb","TextureProcessor","Texture2DContent",701,19685,0,021015
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_small_1.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_small_1.xnb","TextureProcessor","Texture2DContent",435,6485,0,0200137
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_small_2.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_small_2.xnb","TextureProcessor","Texture2DContent",444,6485,0,0170108
+"C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/../Res/Asteroids/aster_small_3.png","C:/Sub/KEFIR/Asteroids/MonoGraphics/Content/bin/Windows/aster_small_3.xnb","TextureProcessor","Texture2DContent",426,6485,0,0240196
